@@ -1,15 +1,12 @@
-## 📊 GitHub Stats  
-![Monika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonikaJadhav2&show_icons=true&theme=tokyonight)
+# Hi, I'm Monika 👋
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonikaJadhav2&theme=tokyonight)
+💻 Computer Engineering Student  
+🌱 Learning Core Java, HTML, CSS, AI & Full-Stack Development  
 
-## 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaJadhav2&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=MonikaJadhav2&show_icons=true&theme=dark)
 
-## 🏆 GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=MonikaJadhav2&theme=onedark)
-
-## 👀 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=MonikaJadhav2&color=blue)
-
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
